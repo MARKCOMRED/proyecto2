@@ -1,0 +1,46 @@
+h1{
+  text-align: center;
+}
+body{
+  color: brown;
+  max-width: 768px;
+  font-size: 20px;
+  font-family: arial;
+  }
+p.logo {
+  background: #ce9506;
+  margin: 0.2em;
+  /* padding: 5px; */
+  color: white;
+  font-weight: bold;
+  /* margin-left: 0;
+  padding-left: 0; */
+  box-shadow: 0px 5px 20px 0px rgba(0,0,0,75);
+  justify-content: flex-start;
+}
+.logo {
+  font-size: 1.5em;
+  padding: 5px 15px 5px 30px;
+}
+.marketing {
+  font-size: 0.8em;
+  font-weight: normal;
+  padding-left: 20px;
+}
+.hero {
+  border: solid;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 2px;
+  color: black;
+  margin-bottom: 1em;
+}
+footer {
+  font-size: .8em;
+  font-family: helvetica;
+  font-weight: bold;
+  padding: 10px;
+  background: #564f4f;
+  color: white;
+  text-align: center;
+}
